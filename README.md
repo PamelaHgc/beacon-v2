@@ -1,6 +1,6 @@
 # Unified repository for Beacon v2 Code & Documentation
 
-## Description
+## Description new
 
 This repository is a unified repository representing the different parts of the Beacon API:
 
